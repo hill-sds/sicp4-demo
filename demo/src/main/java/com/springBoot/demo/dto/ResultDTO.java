@@ -1,4 +1,4 @@
-package com.springBoot.demo.common.dto;
+package com.springBoot.demo.dto;
 
 /**
  * 统一定义返回值

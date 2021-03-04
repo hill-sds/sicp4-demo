@@ -12,6 +12,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 //swagger2的配置文件，在项目的启动类的同级文件建立
+//地址 http://127.0.0.1:8080/demo/swagger-ui.html
 @Configuration
 @EnableSwagger2
 public class Swagger2 {
